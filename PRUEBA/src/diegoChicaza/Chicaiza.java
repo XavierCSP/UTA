@@ -13,6 +13,7 @@ package diegoChicaza;
 public class Chicaiza {
     public static void main(String[] args) {
         // que mas mijines
+        System.out.println("hola mundo");
     }
     
 }
